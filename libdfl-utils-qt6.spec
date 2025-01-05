@@ -1,5 +1,5 @@
 Name:           libdfl-utils-qt6
-Version:        0.2.0 
+Version:        {{VERSION}}
 Release:        1%{?dist}
 Summary:        Desktop Framework Libraries Utils
 BuildArch:      x86_64

@@ -1,5 +1,5 @@
 Name:           qtgreet-qt6
-Version:        2.0.2 
+Version:        {{VERSION}}
 Release:        1%{?dist}
 Summary:        Desktop Framework Libraries QtGreet
 BuildArch:      x86_64

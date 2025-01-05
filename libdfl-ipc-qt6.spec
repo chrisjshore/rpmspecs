@@ -1,5 +1,5 @@
 Name:           libdfl-ipc-qt6
-Version:        0.2.0 
+Version:        {{VERSION}}
 Release:        1%{?dist}
 Summary:        Desktop Framework Libraries IPC
 BuildArch:      x86_64
